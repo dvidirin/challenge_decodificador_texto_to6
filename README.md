@@ -1,6 +1,6 @@
 ![Green Retro Vintage Oak Tree Logo (Capa para Facebook) (1640 × 200 px)](resources/images/capa_face.png)
 
-# Formação Iniciante em Programação T6 - ONE <br> Alura <br> Idealizado Pela Parceria do Oracle Next Education / Alura
+# Formação Iniciante em Programação T6 - ONE - Alura <br> Idealizado Pela Parceria do Oracle Next Education / Alura
 
 <div align="center">
   <img src="resources/images/ONE_logo_rgb.png" alt="Logo do Idealizador - Oracle Next Education ONE" width="50%">
@@ -60,12 +60,12 @@ JavaScript utilizado para deixar a página web dinâmica.<br>
 
 Uma aplicação que criptografa e descriptografa textos, assim poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
-As "chaves" de criptografia que utilizaremos são:
-A letra "e" é convertida para "enter"
-A letra "i" é convertida para "imes"
-A letra "a" é convertida para "ai"
-A letra "o" é convertida para "ober"
-A letra "u" é convertida para "ufat"
+As "chaves" de criptografia que utilizaremos são: <br>
+A letra "e" é convertida para "enter" <br>
+A letra "i" é convertida para "imes" <br>
+A letra "a" é convertida para "ai" <br>
+A letra "o" é convertida para "ober" <br>
+A letra "u" é convertida para "ufat" <br>
 
 O código já trata todas as palavras para letras minúsculas e tira acentos e caracteres especiais.
 
@@ -73,7 +73,7 @@ Tem dois botões extras: um para dar refresh e limpar as textareas e outro para 
 
 ---
 
-### [SITE](https://dvidirin.github.io/projeto_frontend/)
+### [SITE](https://dvidirin.github.io/challenge_decodificador_texto_to6/)
 
 ---
 
